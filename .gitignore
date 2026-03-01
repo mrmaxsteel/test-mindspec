@@ -1,2 +1,6 @@
 .beads/
 .harness/
+
+# Dolt database files (added by bd init)
+.dolt/
+*.db
