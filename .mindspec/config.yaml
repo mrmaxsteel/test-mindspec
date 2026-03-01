@@ -1,0 +1,7 @@
+protected_branches: [main]
+merge_strategy: direct
+worktree_root: .worktrees
+enforcement:
+  pre_commit_hook: true
+  cli_guards: true
+  agent_hooks: false
