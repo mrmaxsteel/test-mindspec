@@ -1,0 +1,3 @@
+# MindSpec local runtime files (not version-controlled)
+.mindspec/session.json
+.mindspec/focus
