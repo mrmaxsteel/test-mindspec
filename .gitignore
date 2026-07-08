@@ -4,3 +4,9 @@
 .mindspec/session.json
 .mindspec/focus
 .mindspec/current-spec.json
+
+# Beads / Dolt files (added by bd init)
+.dolt/
+*.db
+.beads-credential-key
+.beads/proxieddb/
