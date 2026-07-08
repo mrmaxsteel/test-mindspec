@@ -1,3 +1,6 @@
-# MindSpec local runtime files (not version-controlled)
+.beads/
+.harness/
+.worktrees/
 .mindspec/session.json
 .mindspec/focus
+.mindspec/current-spec.json
